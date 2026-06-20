@@ -1,0 +1,9 @@
+{
+  "sandbox": {
+    "enabled": true,
+    "denyRead": [
+      ".env",
+      ".env.local"
+    ]
+  }
+}
